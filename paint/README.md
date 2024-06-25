@@ -11,14 +11,14 @@ This project is a Paint application implemented in Java. It allows users to crea
 - Programming Language: Java
 - GUI Framework: JavaFX
 
-## Project Details
-# Package Descriptions
+# Project Details
+## Package Descriptions
 - controller_view: Contains the GUI components and controllers that handle user interactions.
 - documents: Handles document management, including saving and loading files.
 - model: Contains the core logic and data models for the application.
 - tests: Includes unit tests for various components of the application.
 
-# Team Members:
+## Team Members:
 1. Vivian Alonso
 2. Oyeniyi Hannibal Colmenero Oyebode
 3. Doom Al Rajhi
